@@ -1,4 +1,4 @@
-package com.ias.stc_vit;
+package com.ias.InstaStalk;
 
 import android.content.Context;
 
